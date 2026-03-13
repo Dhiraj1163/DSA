@@ -25,6 +25,7 @@ public class Exp3Linear {
         }else{
             System.out.println(linearSearch(arr,target)+" is the location of target ");
         }
+        sc.close();
         
     }
     

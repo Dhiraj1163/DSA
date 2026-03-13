@@ -36,5 +36,6 @@ public class Exp3Binary {
             System.out.println(binarySearch(arr,target)+" is the location of target ");
         }
         System.out.println();
+        sc.close();
     }
 }

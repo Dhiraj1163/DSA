@@ -26,5 +26,6 @@ public class Exp4Bubble {
             arr[i]=sc.nextInt();
         }
         bubbleSort(arr);
+        sc.close();
     }
 }

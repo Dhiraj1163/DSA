@@ -29,5 +29,7 @@ public class Exp4Insersion {
             arr[i]=sc.nextInt();
         }
         insersionSort(arr);
+
+        sc.close();
     }
 }

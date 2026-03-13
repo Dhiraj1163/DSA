@@ -68,5 +68,7 @@ public class Exp6Queue {
                     isRepeat=false;
             }
         }
+
+        sc.close();
     }
 }

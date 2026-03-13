@@ -98,6 +98,6 @@ public class Exp6Stack {
                isRepeat = false;
          }
       }
-
+      sc.close();  
    }
 }

@@ -31,5 +31,6 @@ public class Exp4Selection {
             arr[i] = sc.nextInt();
         }
         selectionSort(arr);
+        sc.close();
     }
 }
